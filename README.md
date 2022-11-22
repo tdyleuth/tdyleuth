@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tdyleuth
-- 👀 I’m interested in all things tech and code! (Currently interested in blockchain technology and crypto)
-- 🌱 I’m currently learning JavaScript specifically React.js 
+- 👀 I’m interested in all things tech and code!
+- 🌱 I’m currently working as Software Engineer 
 - 💞️ I’m looking to collaborate on fun and interesting projects.
 - 📫 You can reach me at tony.dyleuth.gmail.com or on twitter @tdyleuth
 
