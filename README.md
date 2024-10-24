@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things tech and code!
 - 🌱 I’m currently working as a Software Engineer 
 - 💞️ I’m looking to collaborate on fun and interesting projects.
-- 📫 You can reach me at tony.dyleuth.gmail.com or on twitter @tdyleuth
+- 📫 You can reach me at tony.dyleuth.gmail.com
 
 <!---
 tdyleuth/tdyleuth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
