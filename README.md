@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tdyleuth
 - 👀 I’m interested in all things tech and code!
-- 🌱 I’m currently working as a Software Engineer 
+- 🌱 I’m a Professional Software Engineer 
 - 💞️ I’m looking to collaborate on fun and interesting projects.
 - 📫 You can reach me at tony.dyleuth.gmail.com
 
